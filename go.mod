@@ -1,1 +1,3 @@
-module github.com/ryanuber/go-glob
+module github.com/vasayxtx/go-glob
+
+go 1.15
